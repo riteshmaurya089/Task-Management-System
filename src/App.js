@@ -12,7 +12,7 @@ function App() {
         transition={{ type: "spring", duration: 0.5 }}
         whileHover={{ scale: 1.1 }}
       >
-        Todo App
+        Task Management System
       </motion.h1>
       <motion.div
         initial={{ y: 1000 }}
